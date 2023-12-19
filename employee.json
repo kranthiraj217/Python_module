@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "John",
+        "DOB": "1990-05-15",
+        "Height": 175,
+        "City": "New York",
+        "State": "NY"
+    },
+    {
+        "Name": "Alice",
+        "DOB": "1988-10-20",
+        "Height": 162,
+        "City": "San Francisco",
+        "State": "CA"
+    },
+    {
+        "Name": "Emma",
+        "DOB": "1995-03-08",
+        "Height": 168,
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Name": "Michael",
+        "DOB": "1992-12-03",
+        "Height": 180,
+        "City": "Houston",
+        "State": "TX"
+    },
+    {
+        "Name": "Sophia",
+        "DOB": "1993-07-25",
+        "Height": 170,
+        "City": "Miami",
+        "State": "FL"
+    }
+]
+
