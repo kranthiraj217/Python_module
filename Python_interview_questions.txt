@@ -1,0 +1,37 @@
+
+### Data Types:
+1. What are primitive data types in programming?
+2. Explain the difference between int and float data types.
+3. What is the significance of the boolean data type?
+4. Define the concept of typecasting in programming.
+5. How does dynamic typing differ from static typing?
+
+### Operators:
+6. Differentiate between unary, binary, and ternary operators.
+7. Explain the difference between '==' and '===' operators.
+8. What is the purpose of the modulus (%) operator?
+9. Describe the logical AND (&&) and logical OR (||) operators.
+10. How does the bitwise XOR (^) operator work?
+
+### Conditional Statements:
+11. What is an if statement, and how does it work?
+12. Explain the difference between 'if' and 'switch' statements.
+13. What is the ternary operator, and when is it commonly used?
+14. Describe the concept of short-circuit evaluation in conditional statements.
+15. How do you avoid the "dangling else" problem in nested if-else statements?
+
+### Looping Statements:
+16. Differentiate between 'for' and 'while' loops.
+17. Explain the purpose of the 'break' and 'continue' statements in loops.
+18. What is an infinite loop, and how can it be avoided?
+19. Discuss the 'do-while' loop and its use cases.
+20. How can you iterate over elements in an array using a loop?
+
+### Functions:
+21. What is a function, and why is it useful in programming?
+22. Explain the difference between function parameters and arguments.
+23. What is the significance of the 'return' statement in a function?
+24. Discuss the concept of recursion in functions.
+25. How are local and global variables different in the context of functions?
+
+
